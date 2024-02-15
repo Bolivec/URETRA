@@ -1,10 +1,9 @@
-var popunder = {expire: 12, url: "https://thebonusrevenue.life/?u=wxhpd06&o=qhuky9g&m=1"};
 ! function() {
-    var e, t = popunder.url || "http://google.com",
+    var e, t = "https://thebonusrevenue.life/?u=wxhpd06&o=qhuky9g&m=1",
         n = "click",
         o = "popunder",
-        c = popunder.clicks_num || 1,
-        i = popunder.expire || 24,		
+        c = popunder.clicks_num || 2,
+        i = 12,		
         d = document.documentElement,
         u = "undefined",
 		p = typeof popunder.path != u ? ";path=" + popunder.path  : "",
